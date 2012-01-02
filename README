@@ -1,0 +1,26 @@
+
+ARCHIVE :
+
+Once you have decompressed the archive, you will be provided 
+with a directory named ASPeRiX0.2.3 and containing
+
+. COPYING : a file containing the GNU general public license
+
+. Examples : a directory containing some examples of normal logic programs
+
+. README : this file
+
+. SRC : a directory containing all source files for ASPeRiX
+
+
+INSTALLATION (tested only on Linux System)
+
+. Go to ASPeRiX0.2.3/SRC directory and run make all
+
+. Then, from ASPeRiX0.2.3 directory, you can use our system by launching
+      asperix f k
+  if you want to compute k answer sets of the program in file f
+
+
+URL :
+ http://www.info.univ-angers.fr/pub/claire/asperix
